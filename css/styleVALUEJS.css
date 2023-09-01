@@ -328,3 +328,12 @@ input{
         text-decoration: none;
         color: white;
     }
+
+    #education {
+        text-align: center;
+
+    }
+
+    .text_center {
+        text-align: center; 
+    }
